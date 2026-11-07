@@ -1,0 +1,122 @@
+{
+    "personal": {
+        "name": "Pitambari Chougule",
+        "role": "BCA First Year Student",
+        "profileImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeg0LvxR8d4BOgar3zZPRbeQzPnXddYw7gx-7_HDleDA&s=10",
+        "introduction": "Hello! I am a passionate BCA student interested in web development, programming and modern technologies. I enjoy learning new things and creating creative websites.",
+        "careerGoal": "My career goal is to become a skilled Full Stack Web Developer and build innovative digital solutions.",
+        "email": "pitambari@example.com",
+        "phone": "+91 9876543210",
+        "resume": "resume.pdf"
+    },
+
+    "about": {
+        "description": "I am currently pursuing Bachelor of Computer Applications (BCA). I am a beginner in the world of programming and technology. I have a strong interest in website development and software development. I enjoy exploring new technologies, solving problems and improving my coding skills. My objective is to develop practical knowledge and become a successful IT professional."
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi-filetype-html",
+            "level": 85
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi-filetype-css",
+            "level": 75
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi-filetype-js",
+            "level": 60
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi-bootstrap",
+            "level": 75
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi-code-slash",
+            "level": 65
+        },
+        {
+            "name": "C++",
+            "icon": "bi-code-square",
+            "level": 55
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Login & Signup Website",
+            "image": "https://images.unsplash.com/photo-1555421689-491a97ff2040?w=600",
+            "description": "A modern login and signup website with attractive design, form validation and responsive layout.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Personal Portfolio",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600",
+            "description": "A responsive personal portfolio website to showcase my skills, education, projects and achievements.",
+            "technologies": ["HTML", "CSS", "Bootstrap"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "ShopZone E-Commerce",
+            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600",
+            "description": "A simple shopping website with product cards, search functionality and add-to-cart features.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Management System",
+            "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600",
+            "description": "A beginner-friendly project concept for managing student details and academic records.",
+            "technologies": ["C", "C++"],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": {
+        "college": "Your College Name",
+        "course": "Bachelor of Computer Applications (BCA)",
+        "year": "First Year",
+        "semester": "Semester 1",
+        "academicYear": "2026 - 2027",
+        "status": "Currently Pursuing"
+    },
+
+    "certifications": [
+        {
+            "name": "HTML and CSS Fundamentals",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "description": "Learned the basics of HTML elements, CSS styling and responsive website design."
+        },
+        {
+            "name": "Introduction to C Programming",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "description": "Learned programming fundamentals, variables, loops and functions."
+        },
+        {
+            "name": "Bootstrap 5 Basics",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "description": "Learned responsive layouts, Bootstrap components and grid systems."
+        }
+    ],
+
+    "achievements": [
+        "Created my first personal website.",
+        "Built responsive web pages using Bootstrap.",
+        "Learning programming and problem-solving."
+    ],
+
+    "social": {
+        "github": "https://github.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "instagram": "https://www.instagram.com/"
+    }
+}
